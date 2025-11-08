@@ -32,5 +32,4 @@ Automate system maintenance tasks using Bash scripting to:
 
 ---
 
-## 📦 Project Structure
 
